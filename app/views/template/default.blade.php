@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <head>
-	<title></title>
+	<title>@yield('title')</title>
 	<meta charset="utf-8">
+
+	<link rel="shortcut icon" href="{{ URL::asset('favicon.ico') }}">
 </head>
 <body>
 
