@@ -5,5 +5,6 @@
 @stop
 
 @section('content')
-	This is just a test...
+	This is just a test... of our git workflow
+    Adrian: Hi
 @stop
