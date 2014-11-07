@@ -6,6 +6,7 @@
 	<link rel="shortcut icon" href="{{ URL::asset('favicon.ico') }}">
 </head>
 <body>
+	<h1>Header</h1>
 
 	@yield('content')
 
