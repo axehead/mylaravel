@@ -7,4 +7,5 @@
 @section('content')
 	This is just a test... of our git workflow
     Adrian: Hi
+    Christer: Hello???
 @stop
