@@ -8,5 +8,6 @@
 	This is just a test... of our git workflow
     Adrian: Hi<br/>
     Christer: Hello???<br/>
-    One More...
+    One More...<br/>
+    Two more...
 @stop
